@@ -3,8 +3,8 @@
 import * as React from "react"
 import Image from "next/image"
 import { Minus, Plus, Trash } from 'lucide-react'
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
+import { Button } from "@/Components/ui/button"
+import { Input } from "@/Components/ui/input"
 
 interface CartItem {
   id: number
